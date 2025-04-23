@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @laharily
-- 👀 I’m interested in programming, music, reading, photography, playing with my dog
-- 🌱 I’m currently learning pre-calculus honors, chemistry honors, java, spanish
-- 💞️ I’m looking to collaborate on any projects involved in STEM and volunteering opportunities
+- 👀 I’m interested in programming, music, reading, and photography!
+- 💞️ Driven by a passion for interdisciplinary studies, especially in applying AI/ML across different fields.
 
 <!---
 laharily/laharily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
