@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @laharily
-- 👀 I’m interested in programming, music, reading, and photography!
-- 💞️ Driven by a passion for interdisciplinary studies, especially in applying AI/ML across different fields.
+## 👋 Hi, I’m Lahari!
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,git,github" />
-  <img src="https://skillicons.dev/icons?i=py,django,aws,docker,linux,vscode" />
-</p>
+🎓 Sophomore at the University of California Irvine, studying Computer Science <br/>
+👩‍💻 Break Through Tech Fellow @ Cornell University <br/>
+💡 Driven by a passion for interdisciplinary studies, specifically in applying AI/ML across different fields <br/>
+✨ Seeking a summer internship where I can contribute to impactful projects while further developing my skills in AI/ML and software development <br/>
+👤 Check out my profile on ([LinkedIn](www.linkedin.com/in/lahariyallapragada)), or feel free to ([email me!](laharily@gmail.com))
 
-<!---
-laharily/laharily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
